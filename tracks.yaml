@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/rmw_cyclonedds-release
+release_repo_url: git@github.com:revyos-ros/rmw_cyclonedds-release.git
 tracks:
   dashing:
     actions:
